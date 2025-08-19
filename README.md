@@ -1,8 +1,3 @@
-아하 👍 이제 이해했어요.
-지금 Kanban 보드를 만든 프로젝트 구조는 **Vite + TypeScript + React** 기반이라 기존 README 구조(React Router, Styled-components 위주)랑 조금 달라요.
-말씀하신 스타일을 반영해서 **현재 Kanban 프로젝트에 맞는 README**를 다시 정리해드릴게요.
-
----
 
 # React Project - Kanban Board
 
